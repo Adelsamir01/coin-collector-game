@@ -6,3 +6,8 @@
 #HOW to win the game: you have to get more score than the minimum required, which is calculated based on the greedy algorithm.
 
 #CODING this game was coded in C++ and Qt framework.
+
+This project is conducted for data structures course at Nile University. 
+Team: Adel Samir, Mohamed Khaled Ramadan, Maryam Fadaly, Shorouk Alalem, Ahmed Sayed
+
+
